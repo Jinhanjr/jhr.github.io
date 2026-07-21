@@ -31,7 +31,7 @@ It uses a combination of classical BaZi logic and AI to deliver personalised, co
 ## 📬 Contact
 
 For questions about this repo, privacy, or the app, please contact:  
-📧 [your-email@example.com]
+📧 [rudy.joseph@gmail.com]
 
 ---
 
